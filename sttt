@@ -1,11 +1,11 @@
 getgenv().HitPart = "HumanoidRootPart"
-getgenv().Prediction = 0.1485436
+getgenv().Prediction = 0.13
 getgenv().Enabled = true
 
 -- fov settings
 getgenv().ShowFOV = true
 getgenv().Filled = false
-getgenv().FOVSize = 150
+getgenv().FOVSize = 98
 getgenv().FOVTransparency = 1
 getgenv().FOVThickness = 2.0
 getgenv().FOVColor = Color3.new(0,0,0)
